@@ -9,7 +9,7 @@ public class Solut {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        // int k = sc.nextInt();
+     
         System.out.print(solve(n, arr, k));
     }
 
